@@ -1,5 +1,5 @@
 # Title:  	99 Bottles
-# Author: 	Thomas Luong
+# Author: 	Vaiven greets
 # Purpose:	A program printing out every line to the song "99 bottles of beer on the wall"
 # Usage:	To practice Loops
 
